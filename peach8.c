@@ -2,9 +2,9 @@
 This is the assembler program.
 */
 #include <stdio.h>
-#include <lexer.h>
-#include <parser.h>
-#include <emitter.h>
+#include <toads/lexer.h>
+#include <toads/parser.h>
+#include <toads/emitter.h>
 
 
 int main() {
